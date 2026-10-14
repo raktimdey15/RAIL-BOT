@@ -1,0 +1,9 @@
+{
+  "from_station": "Chattogram",
+  "to_station": "Dhaka",
+  "journey_date": "23-Oct-2026",
+  "train_name": "ALL",
+  "seat_class": "S_CHAIR",
+  "poll_interval_seconds": 10,
+  "open_railway_site_on_alert": true
+}
